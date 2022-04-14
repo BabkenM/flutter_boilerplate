@@ -99,6 +99,9 @@ dependencies:
   # and add a banner to show info about device.
   flavorbanner: ^1.0.2
 
+  # A flutter implementation of React hooks. It adds a new kind of widget with enhanced code reuse.
+  flutter_hooks: ^0.18.3
+
 # Dependencies that are only needed in the development phase
 # of the package itself are listed under dev_dependencies.
 dev_dependencies:
